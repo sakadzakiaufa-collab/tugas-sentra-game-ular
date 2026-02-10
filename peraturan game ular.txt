@@ -1,0 +1,27 @@
+- Ular digerakkan dengan tombol Arrow Keys (Up, Down, Left, Right).
+- Ular tidak bisa langsung berbalik arah 180° (misalnya dari atas langsung ke bawah).
+- Jika game over dan masih ada nyawa tersisa, menekan tombol panah akan mereset permainan.
+- Makanan ditampilkan sebagai lingkaran merah
+- Jika kepala ular mengenai makanan:
+- Panjang tubuh ular bertambah satu tile.
+- Makanan berpindah ke lokasi acak di grid.
+- Skor bertambah +1.
+- Game over terjadi jika:
+- Kepala ular keluar dari batas jendela (menabrak dinding).
+- Kepala ular menabrak tubuhnya sendiri.
+- Saat game over:
+- Jika masih ada nyawa, pemain bisa melanjutkan dengan menekan tombol panah.
+- Jika nyawa habis, permainan berakhir dengan pesan Game Over! Final Score: X
+- Pemain memulai dengan 3 nyawa.
+- Setiap kali game over, nyawa berkurang 1.
+- Jika nyawa masih ada, permainan bisa dilanjutkan.
+- Jika nyawa habis, permainan benar-benar berakhir.
+- Skor dan jumlah nyawa ditampilkan di bagian atas layar.
+- Ular digambar dengan:
+- Kepala: persegi panjang hijau terang.
+- Tubuh: persegi panjang hijau gelap.
+- Makanan: gambar apel atau lingkaran merah.
+- Pesan Game Over ditampilkan di tengah layar.
+
+
+
